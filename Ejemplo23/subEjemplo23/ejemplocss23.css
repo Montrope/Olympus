@@ -1,0 +1,12 @@
+html {
+font-size :62%;
+}
+body {
+font-family :Helvetica, Arial, sans-serif;
+color :#333;  
+background :url(i-denim2.png) 50% 350px no-repeat #e8ecf0;
+}
+h1.funkyclass {
+	width: 1366px; height: 768px;
+	background: url("../../Imagenes/ivan.jpg");
+	}
